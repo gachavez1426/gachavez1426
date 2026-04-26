@@ -7,5 +7,5 @@ I like front-end development and use Figma to help plan the UI of my projects
 
 ------------------------------------------------------------------------------------------------------------
 ## You can Reach Me At:
-- gmail(gachavez1426@gmail.com)
+- gmail
 - LinkedIn(https://www.linkedin.com/in/gabriel-chavez-9a0081394/)
