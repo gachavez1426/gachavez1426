@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 My name is Gabriel, and I am a computer science major in California.
 
 I’m currently in college, getting my Computer Science(AST), learning the C++, html, and javascript languages
