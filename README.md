@@ -5,5 +5,5 @@ I’m currently in college, getting my Computer Science(AST), learning the C++, 
 
 -----------------------------------------------------------------------------------------------
 ## You can Reach Me At:
-- Gmail: gabrielChavez1426@gmail.com
+- Gmail: gaChavez2003@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriel-chavez-9a0081394/
